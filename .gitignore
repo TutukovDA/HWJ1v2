@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-HWJv2.iml
+*.iml
 .idea
 
 ### Eclipse ###
